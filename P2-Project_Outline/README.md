@@ -1,5 +1,7 @@
 # Project Outline
-Financial Budgeting Appication which helps user to enter their income and expenses and provides a pictorial representation of the user's cash flow in pie diagram or graph so that the user can keep track of the expenses and find ways to save dollars. 
+Financial Budgeting Appication which helps user to enter their income and expenses and provides a pictorial 
+representation of the user's cash flow in pie diagram or graph so that the user can keep track of the expenses and find 
+ways to save dollars. 
 
 
 
@@ -14,7 +16,8 @@ Users will be able to review all of their expenses by category in a pie chart.
 This idea came to me because as being a parent and mother of 2 kids, I always find ways to save money while having many 
 expenses in home. So it will be useful for other parents as well.
 ### Features
-1.User Registration – Users will be able to register with a username and password. Users can set up their profile with fields like name, age, email, phone number, job, and income.
+1.User Registration – Users will be able to register with a username and password. Users can set up their profile with 
+fields like name, age, email, phone number, job, and income.
 
 2.User Login - Users will be able to login after creating a profile.
 

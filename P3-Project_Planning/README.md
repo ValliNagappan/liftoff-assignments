@@ -12,7 +12,7 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 1.[Flowofinfo](../images/Flowofinfo.jpg)
 2.[Register](../images/Register.jpg)
-3.[ViewExpense](../images/CreateCategory.jpg)
+3.[ViewExpense](../images/ViewExpense.jpg)
 4.[Welcome](../images/Welcome.jpg)
 
 ### Project Tracker
