@@ -19,7 +19,7 @@ expenses in home. So it will be useful for other parents as well.
 1.User Registration – Users will be able to register with a username and password. Users can set up their profile with 
 fields like name, age, email, phone number, job, and income.
 
-2.User Login - Users will be able to login after creating a profile.
+2.User Login - Users will be able to login after creating a profile with username/email and password.
 
 3.Add/Update Expenses
 -Users will be able to add expenses in the provided respective categories
@@ -43,6 +43,7 @@ fields like name, age, email, phone number, job, and income.
 5.BOOTSTRAP
 6.THYMLEAF 
 7.SPRINGBOOT
+8.Hibernate
 ### What I'll Have to Learn
 I still have to work on how to incorporate and use thymleaf templates.
 ### Project Tracker
